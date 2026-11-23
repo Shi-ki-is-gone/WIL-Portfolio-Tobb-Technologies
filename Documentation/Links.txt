@@ -1,0 +1,17 @@
+PORTFOLIO AND PROJECT LINKS
+
+Zonke repository: https://github.com/FredrickKcode/zonke
+Zonke commits by Shi-ki-is-gone: https://github.com/FredrickKcode/zonke/commits?author=Shi-ki-is-gone
+Zonke database branch commit history: https://github.com/FredrickKcode/zonke/commits/main/database
+
+SOURCE DIFFS FOR MATCHING ZONKE COMMITS
+2026-09-27 - Add single to run on MySQL: https://github.com/FredrickKcode/zonke/commit/11c474257562ca566020efe6c9e17e550ceff2e4
+2026-09-27 - Express API server and Node.js setup: https://github.com/FredrickKcode/zonke/commit/2d42554c1cd9185a8c0c941f3b496b760a84ebb6
+2026-10-01 - API frontend integration and database values: https://github.com/FredrickKcode/zonke/commit/a7df0ebfdca9d425e6fafced0c862562096bbb0f
+2026-10-01 - Security update: https://github.com/FredrickKcode/zonke/commit/1f0e177aec30e03f081081edea5027a06d8e8eb7
+2026-10-01 - Database updates: https://github.com/FredrickKcode/zonke/commit/3268ee4b622f7da8f56da165f3a0f5e9cbdafb20
+2026-10-01 - API frontend support and missing values: https://github.com/FredrickKcode/zonke/commit/83067567b76be00c22e8903372361336c0bcb5e6
+2026-10-01 - Documentation and other changes: https://github.com/FredrickKcode/zonke/commit/ccd52bdfc18de0343aafb1a115ff681c0a36c115
+
+DEMONSTRATION
+Integrated feature demonstration: https://youtu.be/X6wuuTl0p3I
