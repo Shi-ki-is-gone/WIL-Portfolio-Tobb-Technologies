@@ -1,0 +1,30 @@
+# Secrets and environment
+.env
+.env.*
+!.env.example
+secrets/
+*.pem
+*.key
+
+# Dependencies and build output
+node_modules/
+vendor/
+dist/
+build/
+bin/
+obj/
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*.tmp
+
+# Local recordings and large working files (add selectively if required)
+*.log
+
+# Do not publish the original WIL logbook
+Documentation/BScIT_WIL_Logbook_2026.pdf
