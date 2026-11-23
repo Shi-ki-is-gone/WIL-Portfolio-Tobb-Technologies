@@ -101,9 +101,6 @@ See [Daily-Log](Daily-Log/).
 This placement strengthened my ability to move from theoretical concepts to practical implementation. I gained experience with database design and integration, backend development, application security, file handling, system diagnostics and technical documentation. It also developed my communication, planning, collaboration and problem-solving skills through work involving colleagues and existing systems.
 
 ## Contact
-
-- **Email:** Add your professional email address
-- **LinkedIn:** Add your LinkedIn profile URL
-- **GitHub:** [FredrickKcode/zonke](https://github.com/FredrickKcode/zonke) — contributions filtered by [Shi-ki-is-gone](https://github.com/FredrickKcode/zonke/commits?author=Shi-ki-is-gone)
+- **Email:** Kjcooljj@gmail.com
 
 ---
